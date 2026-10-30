@@ -1,0 +1,14 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*.class
+
+# Data and large submissions
+data/
+*.zip
+*.docx
+*.pdf
+*.pptx
+
+# Logs & temp
+*.log
